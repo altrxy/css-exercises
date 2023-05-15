@@ -1,0 +1,19 @@
+p.cooler {
+    background-color: salmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler.thing {
+    font-size: 24px;
+}
+
+#another {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
